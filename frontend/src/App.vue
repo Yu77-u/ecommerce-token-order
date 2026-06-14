@@ -1,6 +1,7 @@
 <template>
-  <router-view></router-view>
+  <Goods />
 </template>
+
 <script setup>
-// 简易页面跳转，作业演示够用
+import Goods from './views/Goods.vue'
 </script>
