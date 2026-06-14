@@ -1,7 +1,7 @@
 <template>
-  <Goods />
+  <GoodDetail />
 </template>
 
 <script setup>
-import Goods from './views/Goods.vue'
+import GoodDetail from './components/GoodDetail.vue'
 </script>
